@@ -1,0 +1,15 @@
+L1,Kumis,1500,Personal,500
+L2,Kumis,4500,Personal,2500
+L3,Kumis,7000,Personal,7000
+L4,Kumis,9000,Personal,7000
+L5,Yogurt,8500,Familiar,20000
+L6,Yogurt,2000,Familiar,5000
+L7,Yogurt,500,Familiar,700
+L8,Yogurt,15000,Familiar,700
+L9,Queso,1500,Libra,2000
+L10,Queso,6500,Libra,9000
+L11,Queso,3700,Libra,6800
+L12,Mantequilla,8500,Libra,2000
+L13,Mantequilla,700,Libra,9000
+L14,Mantequilla,1200,Libra,9000
+L15,Mantequilla,3700,Libra,6800

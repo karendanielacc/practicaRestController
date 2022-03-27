@@ -1,0 +1,17 @@
+C1,Roja,5200,Seco,292.8
+C2,Blanca,9800,Vacio,292.8
+C3,Blanca,6000,Seco,292.8
+C4,Vacuno,9200,Seco,95.3
+C5,Ave,10000,Vacio,292.8
+C6,Ave,3000,Seco,292.8
+C7,Conejo,1300.2,Seco,180.7
+C8,Conejo,5000,Seco,170.7
+C9,Conejo,900.8,Vacio,170.7
+C10,Conejo,5000,Vacio,180.7
+C11,Cerdo,6500,Vacio,180.7
+C12,Cerdo,6500,Seco,180.7
+C13,Cerdo,2300,Seco,170.7
+C14,Oveja,249,Vacio,95.3
+C15,Oveja,249,Seco,95.3
+C16,Oveja,120,Seco,95.3
+C17,Cabra,50,Vacio,95.3
